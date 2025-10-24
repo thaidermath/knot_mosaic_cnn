@@ -1,8 +1,8 @@
 # Knot Mosaic CNN
 
-End-to-end toolkit for aligning KnotInfo metadata with mosaic images and training CNN-based classifiers on tile-probability arrays.
+Training CNN-based classifiers on Knot Mosaic images.
 
-## Data merge overview
+## Data Preprocessing
 
 The `merge_knot_data.py` workflow joins `knotinfo.csv` with the downloaded mosaics in `mosaics/` and writes `mosaics/merged_knotinfo.csv`. Snake_case columns capture the parsed mosaic and tile counts alongside the matching image reference.
 
@@ -47,14 +47,3 @@ Pipeline components for training classifiers on tile-probability tensors:
 - `logs/` — training logs.
 - `checkpoints/` — saved model weights.
 - `plots/` — generated CSV/PNG artifacts.
-- `reports/` — LaTeX write-ups (not tracked in git).
-
-## Quick start
-
-```powershell
-./knotenv/Scripts/Activate.ps1
-python merge_knot_data.py
-python create_rotated_tile_probs.py
-python train_prototypical.py --epochs 10 --episodes-per-epoch 200 --N 20 --K 5 --Q 5 --eval --save-every 1 --save-dir checkpoints/proto_run
-python scripts/parse_proto_logs_and_plot.py
-```

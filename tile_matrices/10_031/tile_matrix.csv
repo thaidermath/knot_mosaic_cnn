@@ -1,0 +1,7 @@
+tile_01,tile_03,tile_02,tile_01,tile_01,tile_01,tile_01
+tile_03,tile_11,tile_08,tile_02,tile_01,tile_01,tile_01
+tile_04,tile_08,tile_11,tile_10,tile_02,tile_01,tile_01
+tile_01,tile_04,tile_10,tile_11,tile_11,tile_02,tile_01
+tile_01,tile_01,tile_04,tile_11,tile_10,tile_11,tile_02
+tile_01,tile_01,tile_01,tile_04,tile_11,tile_10,tile_05
+tile_01,tile_01,tile_01,tile_01,tile_04,tile_05,tile_01

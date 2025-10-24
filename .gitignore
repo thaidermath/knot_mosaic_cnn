@@ -1,0 +1,23 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+knotenv/
+.venv/
+venv/
+
+# Experiment artifacts
+reports/
+checkpoints/
+logs/
+plots/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,250 @@
+Name,crossing_number,jones_polynomial,hyperbolic_volume,meridian_length,mosaic_num,tile_num,image_filename_matched,image_url_matched
+3_1,3,t+ t^3-t^4,0,Not Hyperbolic,4,12,3_1.jpg,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/3_1.jpg
+4_1,4,t^(-2)-t^(-1)+ 1-t+ t^2,2.0298832128,1,5,17,4_1.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/4_1.png
+5_1,5,t^2+ t^4-t^5+ t^6-t^7,0,Not Hyperbolic,5,17,5_1.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/5_1.png
+5_2,5,t-t^2+ 2*t^3-t^4+ t^5-t^6,2.8281220883,1.150963925,5,17,5_2.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/5_2.png
+6_1,6,t^(-2)-t^(-1)+ 2-2*t+ t^2-t^3+ t^4,3.1639632288,1.247409392,5,17,6_1.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/6_1-mt.png
+6_2,6,t^(-1)-1+ 2*t-2*t^2+ 2*t^3-2*t^4+ t^5,4.4008325161,1.283754238,5,17,6_2.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/6_2.png
+6_3,6,-t^(-3)+ 2*t^(-2)-2*t^(-1)+ 3-2*t+ 2*t^2-t^3,5.6930210912,1.210607794,6,22,6_3.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/6_3.png
+7_1,7,t^3+ t^5-t^6+ t^7-t^8+ t^9-t^10,0,Not Hyperbolic,6,22,7_1.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_1.png
+7_2,7,t-t^2+ 2*t^3-2*t^4+ 2*t^5-t^6+ t^7-t^8,3.3317442316,1.300876473,6,22,7_2.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_2.png
+7_3,7,t^2-t^3+ 2*t^4-2*t^5+ 3*t^6-2*t^7+ t^8-t^9,4.5921256970,1.340245356,6,22,7_3.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_3-mt.png
+7_4,7,t-2*t^2+ 3*t^3-2*t^4+ 3*t^5-2*t^6+ t^7-t^8,5.1379412018,1.485115965,5,17,7_4.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_4.png
+7_5,7,t^2-t^3+ 3*t^4-3*t^5+ 3*t^6-3*t^7+ 2*t^8-t^9,6.4435373808,1.222402211,6,22,7_5.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_5.png
+7_6,7,t^(-1)-2+ 3*t-3*t^2+ 4*t^3-3*t^4+ 2*t^5-t^6,7.0849259535,1.226445278,6,22,7_6.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_6.png
+7_7,7,t^(-4)-2*t^(-3)+ 3*t^(-2)-4*t^(-1)+ 4-3*t+ 3*t^2-t^3,7.6433751723,1.247409392,6,22,7_7.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/7_7.png
+8_1,8,t^(-2)-t^(-1)+ 2-2*t+ 2*t^2-2*t^3+ t^4-t^5+ t^6,3.4272052462,1.332538118,6,22,8_1.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_01-mt.png
+8_2,8,1-t+ 2*t^2-2*t^3+ 3*t^4-3*t^5+ 2*t^6-2*t^7+ t^8,4.9352426782,1.358234792,6,22,8_2.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_02.png
+8_3,8,t^(-4)-t^(-3)+ 2*t^(-2)-3*t^(-1)+ 3-3*t+ 2*t^2-t^3+ t^4,5.2386841007,1.526793485,6,22,8_3.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_03-mt.png
+8_4,8,t^(-5)-2*t^(-4)+ 3*t^(-3)-3*t^(-2)+ 3*t^(-1)-3+ 2*t^1-t^2+ t^3,5.5004864163,1.509575017,6,22,8_4.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_04.png
+8_5,8,1-t+ 3*t^2-3*t^3+ 3*t^4-4*t^5+ 3*t^6-2*t^7+ t^8,6.9971891477,1.605392576,6,24,8_5.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_05.png
+8_6,8,t^(-1)-1+ 3*t-4*t^2+ 4*t^3-4*t^4+ 3*t^5-2*t^6+ t^7,7.4752374295,1.249647638,6,24,8_6.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_06-mt.png
+8_7,8,-t^(-6)+ 2*t^(-5)-3*t^(-4)+ 4*t^(-3)-4*t^(-2)+ 4*t^(-1)-2+ 2*t-t^2,7.0221965890,1.252113801,6,22,8_7.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_07-mt.png
+8_8,8,-t^(-5)+ 2*t^(-4)-3*t^(-3)+ 4*t^(-2)-4*t^(-1)+ 5-3*t+ 2*t^2-t^3,7.8013412244,1.270489558,6,22,8_8.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_08-mt.png
+8_9,8,t^(-4)-2*t^(-3)+ 3*t^(-2)-4*t^(-1)+ 5-4*t+ 3*t^2-2*t^3+ t^4,7.5881802236,1.420609157,6,22,8_9.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_09-mt.png
+8_10,8,-t^(-6)+ 2*t^(-5)-4*t^(-4)+ 5*t^(-3)-4*t^(-2)+ 5*t^(-1)-3+ 2*t-t^2,8.6511485580,1.331925523,6,24,8_10.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_10.png
+8_11,8,t^(-1)-2+ 4*t-4*t^2+ 5*t^3-5*t^4+ 3*t^5-2*t^6+ t^7,8.2863168178,1.276111205,6,24,8_11.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_11.png
+8_12,8,t^(-4)-2*t^(-3)+ 4*t^(-2)-5*t^(-1)+ 5-5*t+ 4*t^2-2*t^3+ t^4,8.9358569274,1.232599323,6,24,8_12.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_12.png
+8_13,8,-t^(-5)+ 2*t^(-4)-3*t^(-3)+ 5*t^(-2)-5*t^(-1)+ 5-4*t+ 3*t^2-t^3,8.5312322014,1.266676992,6,22,8_13.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_13.png
+8_14,8,t^(-1)-2+ 4*t-5*t^2+ 6*t^3-5*t^4+ 4*t^5-3*t^6+ t^7,9.2178003160,1.234787552,6,24,8_14.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_14.png
+8_15,8,t^2-2*t^3+ 5*t^4-5*t^5+ 6*t^6-6*t^7+ 4*t^8-3*t^9+ t^10,9.9306482937,1.302105119,6,27,8_15.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_15.png
+8_16,8,-t^(-6)+ 3*t^(-5)-5*t^(-4)+ 6*t^(-3)-6*t^(-2)+ 6*t^(-1)-4+ 3*t-t^2,10.5790219168,1.500953227,6,24,8_16.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_16.png
+8_17,8,t^(-4)-3*t^(-3)+ 5*t^(-2)-6*t^(-1)+ 7-6*t+ 5*t^2-3*t^3+ t^4,10.9859076062,1.429835096,6,24,8_17.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_17.png
+8_18,8,t^(-4)-4*t^(-3)+ 6*t^(-2)-7*t^(-1)+ 9-7*t+ 6*t^2-4*t^3+ t^4,12.3509062091,1.553773974,6,24,8_18.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_18.png
+8_19,8,t^3+ t^5-t^8,0,Not Hyperbolic,6,24,8_19.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_19.png
+8_20,8,-t^(-5)+ t^(-4)-t^(-3)+ 2*t^(-2)-t^(-1)+ 2-t,4.1249032518,1.576434832,6,24,8_20.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_20.png
+8_21,8,2*t-2*t^2+ 3*t^3-3*t^4+ 2*t^5-2*t^6+ t^7,6.7837135198,1.372298621,6,24,8_21.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/8_21.png
+9_1,9,t^4+ t^6-t^7+ t^8-t^9+ t^10-t^11+ t^12-t^13,0,Not Hyperbolic,6,27,9_01.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_01.png
+9_2,9,t-t^2+ 2*t^3-2*t^4+ 2*t^5-2*t^6+ 2*t^7-t^8+ t^9-t^10,3.4866601462,1.352656334,6,27,9_02.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_02.png
+9_3,9,t^3-t^4+ 2*t^5-2*t^6+ 3*t^7-3*t^8+ 3*t^9-2*t^10+ t^11-t^12,4.9948564041,1.374882702,6,27,9_03.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_03-mt.png
+9_4,9,t^2-t^3+ 2*t^4-3*t^5+ 4*t^6-3*t^7+ 3*t^8-2*t^9+ t^10-t^11,5.5565188163,1.530728096,6,27,9_04.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_04-mt.png
+9_5,9,t-2*t^2+ 3*t^3-3*t^4+ 4*t^5-3*t^6+ 3*t^7-2*t^8+ t^9-t^10,5.6984417509,1.5227712,6,22,9_05.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_05.png
+9_6,9,t^3-t^4+ 3*t^5-3*t^6+ 4*t^7-5*t^8+ 4*t^9-3*t^10+ 2*t^11-t^12,7.2036007616,1.258916899,7,27,9_06.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_06.png
+9_7,9,t^2-t^3+ 3*t^4-4*t^5+ 5*t^6-5*t^7+ 4*t^8-3*t^9+ 2*t^10-t^11,8.0148614578,1.290477673,6,27,9_07.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_07-mt.png
+9_8,9,t^(-3)-2*t^(-2)+ 3*t^(-1)-4+ 5*t-5*t^2+ 5*t^3-3*t^4+ 2*t^5-t^6,8.1923479624,1.308048253,6,24,9_08.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_08.png
+9_9,9,t^3-t^4+ 3*t^5-4*t^6+ 5*t^7-5*t^8+ 5*t^9-4*t^10+ 2*t^11-t^12,8.0168155656,1.413912351,6,27,9_09.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_09-mt.png
+9_10,9,t^2-2*t^3+ 4*t^4-5*t^5+ 6*t^6-5*t^7+ 5*t^8-3*t^9+ t^10-t^11,8.7734572820,1.372323578,6,27,9_10.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_10-m.png
+9_11,9,-t^(-9)+ 2*t^(-8)-4*t^(-7)+ 5*t^(-6)-5*t^(-5)+ 6*t^(-4)-4*t^(-3)+ 3*t^(-2)-2*t^(-1)+ 1,8.2885890428,1.257193895,6,24,9_11.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_11.png
+9_12,9,t^(-1)-2+ 4*t-5*t^2+ 6*t^3-6*t^4+ 5*t^5-3*t^6+ 2*t^7-t^8,8.8366423438,1.28084975,6,24,9_12.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_12-mt.png
+9_13,9,t^2-2*t^3+ 4*t^4-5*t^5+ 7*t^6-6*t^7+ 5*t^8-4*t^9+ 2*t^10-t^11,9.1350940379,1.381511113,6,27,9_13.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_13-mt.png
+9_14,9,t^(-6)-2*t^(-5)+ 3*t^(-4)-5*t^(-3)+ 6*t^(-2)-6*t^(-1)+ 6-4*t+ 3*t^2-t^3,8.9549892620,1.277110989,6,24,9_14.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_14.png
+9_15,9,-t^(-8)+ 2*t^(-7)-4*t^(-6)+ 6*t^(-5)-6*t^(-4)+ 7*t^(-3)-6*t^(-2)+ 4*t^(-1)-2+ t,9.8854986603,1.245774125,7,27,9_15.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_15-mt.png
+9_16,9,t^3-t^4+ 4*t^5-5*t^6+ 6*t^7-7*t^8+ 6*t^9-5*t^10+ 3*t^11-t^12,9.8830069600,1.3945288,6,29,9_16.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_16-m.png
+9_17,9,t^(-3)-2*t^(-2)+ 4*t^(-1)-5+ 6*t-7*t^2+ 6*t^3-4*t^4+ 3*t^5-t^6,9.4745804534,1.332953362,6,24,9_17.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_17.png
+9_18,9,t^2-2*t^3+ 5*t^4-6*t^5+ 7*t^6-7*t^7+ 6*t^8-4*t^9+ 2*t^10-t^11,10.0577296355,1.239739028,7,27,9_18.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_18.png
+9_19,9,t^(-4)-2*t^(-3)+ 4*t^(-2)-6*t^(-1)+ 7-7*t+ 6*t^2-4*t^3+ 3*t^4-t^5,10.0325474478,1.254470298,6,24,9_19.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_19-mt.png
+9_20,9,1-2*t+ 4*t^2-5*t^3+ 7*t^4-7*t^5+ 6*t^6-5*t^7+ 3*t^8-t^9,9.6443040738,1.307595118,6,22,9_20.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_20.png
+9_21,9,-t^(-8)+ 2*t^(-7)-4*t^(-6)+ 6*t^(-5)-7*t^(-4)+ 8*t^(-3)-6*t^(-2)+ 5*t^(-1)-3+ t,10.1832655356,1.241175713,6,24,9_21.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_21-mt.png
+9_22,9,t^(-3)-2*t^(-2)+ 4*t^(-1)-6+ 7*t-7*t^2+ 7*t^3-5*t^4+ 3*t^5-t^6,10.6207270212,1.318188233,7,29,9_22.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_22.png
+9_23,9,t^2-2*t^3+ 5*t^4-6*t^5+ 8*t^6-8*t^7+ 6*t^8-5*t^9+ 3*t^10-t^11,10.6113482940,1.246574136,6,24,9_23.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_23.png
+9_24,9,t^(-4)-3*t^(-3)+ 5*t^(-2)-7*t^(-1)+ 8-7*t+ 7*t^2-4*t^3+ 2*t^4-t^5,10.8337291089,1.309348624,6,27,9_24.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_24-mt.png
+9_25,9,t^(-1)-2+ 5*t-7*t^2+ 8*t^3-8*t^4+ 7*t^5-5*t^6+ 3*t^7-t^8,11.3903051477,1.274098713,7,29,9_25.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_25.png
+9_26,9,t^(-7)-3*t^(-6)+ 5*t^(-5)-7*t^(-4)+ 8*t^(-3)-8*t^(-2)+ 7*t^(-1)-4+ 3*t-t^2,10.5958405149,1.257366186,6,24,9_26.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_26-mt.png
+9_27,9,t^(-4)-3*t^(-3)+ 5*t^(-2)-7*t^(-1)+ 9-8*t+ 7*t^2-5*t^3+ 3*t^4-t^5,10.9999809582,1.253057048,6,24,9_27.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_27.png
+9_28,9,-t^(-2)+ 3*t^(-1)-5+ 8*t-8*t^2+ 9*t^3-8*t^4+ 5*t^5-3*t^6+ t^7,11.5631770162,1.312281908,6,27,9_28.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_28.png
+9_29,9,-t^(-6)+ 3*t^(-5)-6*t^(-4)+ 8*t^(-3)-8*t^(-2)+ 9*t^(-1)-7+ 5*t-3*t^2+ t^3,12.2058561651,1.495815578,7,29,9_29.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_29-mt.png
+9_30,9,-t^(-5)+ 3*t^(-4)-5*t^(-3)+ 8*t^(-2)-9*t^(-1)+ 9-8*t+ 6*t^2-3*t^3+ t^4,11.9545269682,1.289552128,7,29,9_30.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_30.png
+9_31,9,-t^(-2)+ 3*t^(-1)-5+ 8*t-9*t^2+ 10*t^3-8*t^4+ 6*t^5-4*t^6+ t^7,11.6863122078,1.260230911,6,24,9_31.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_31.png
+9_32,9,t^(-7)-3*t^(-6)+ 6*t^(-5)-9*t^(-4)+ 10*t^(-3)-10*t^(-2)+ 9*t^(-1)-6+ 4*t-t^2,13.0998998458,1.31259178,7,29,9_32.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_32.png
+9_33,9,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 9*t^(-2)-10*t^(-1)+ 11-9*t+ 7*t^2-4*t^3+ t^4,13.2804556362,1.315237109,7,29,9_33.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_33.png
+9_34,9,-t^(-5)+ 4*t^(-4)-7*t^(-3)+ 10*t^(-2)-12*t^(-1)+ 12-10*t^1+ 8*t^2-4*t^3+ t^4,14.3445813877,1.437422965,7,29,9_34.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_34.png
+9_35,9,t-2*t^2+ 3*t^3-4*t^4+ 5*t^5-3*t^6+ 4*t^7-3*t^8+ t^9-t^10,7.9405792477,1.664119093,6,29,9_35.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_35-m.png
+9_36,9,-t^(-9)+ 2*t^(-8)-4*t^(-7)+ 6*t^(-6)-6*t^(-5)+ 6*t^(-4)-5*t^(-3)+ 4*t^(-2)-2*t^(-1)+ 1,9.8845786531,1.303495634,7,29,9_36.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_36.png
+9_37,9,t^(-4)-2*t^(-3)+ 5*t^(-2)-7*t^(-1)+ 7-8*t+ 7*t^2-4*t^3+ 3*t^4-t^5,10.9894495925,1.334147304,6,27,9_37.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_37-mt.png
+9_38,9,t^2-3*t^3+ 7*t^4-8*t^5+ 10*t^6-10*t^7+ 8*t^8-6*t^9+ 3*t^10-t^11,12.9328587022,1.417582391,7,29,9_38.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_38.png
+9_39,9,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 8*t^(-5)-9*t^(-4)+ 10*t^(-3)-8*t^(-2)+ 6*t^(-1)-3+ t,12.8103100033,1.430371399,7,29,9_39.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_39.png
+9_40,9,-t^(-2)+ 5*t^(-1)-8+ 11*t-13*t^2+ 13*t^3-11*t^4+ 8*t^5-4*t^6+ t^7,15.0183428578,1.582347184,7,31,9_40.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_40.png
+9_41,9,t^(-6)-3*t^(-5)+ 5*t^(-4)-7*t^(-3)+ 8*t^(-2)-8*t^(-1)+ 8-5*t+ 3*t^2-t^3,12.0989360259,1.618033989,7,31,9_41.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_41.png
+9_42,9,t^(-3)-t^(-2)+ t^(-1)-1+ t-t^2+ t^3,4.0568602242,1.553898243,7,29,9_42.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_42.png
+9_43,9,1-t+ 2*t^2-2*t^3+ 2*t^4-2*t^5+ 2*t^6-t^7,5.9040858585,1.492732816,7,29,9_43.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_43.png
+9_44,9,t^(-2)-2*t^(-1)+ 3-3*t+ 3*t^2-2*t^3+ 2*t^4-t^5,7.4067675723,1.363396072,7,29,9_44.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_44.png
+9_45,9,-t^(-8)+ 2*t^(-7)-3*t^(-6)+ 4*t^(-5)-4*t^(-4)+ 4*t^(-3)-3*t^(-2)+ 2*t^(-1),8.6020311664,1.37004781,7,29,9_45.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_45.png
+9_46,9,t^(-6)-t^(-5)+ t^(-4)-2*t^(-3)+ t^(-2)-t^(-1)+ 2,4.7517019655,1.806878752,6,27,9_46.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_46-mt.png
+9_47,9,-t^(-2)+ 3*t^(-1)-3+ 5*t-5*t^2+ 4*t^3-4*t^4+ 2*t^5,10.0499578612,1.556030191,7,29,9_47.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_47.png
+9_48,9,-2*t^(-6)+ 3*t^(-5)-4*t^(-4)+ 6*t^(-3)-4*t^(-2)+ 4*t^(-1)-3+ t,9.5318798358,1.356203066,6,27,9_48.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_48-mt.png
+9_49,9,t^2-2*t^3+ 4*t^4-4*t^5+ 5*t^6-4*t^7+ 3*t^8-2*t^9,9.4270736277,1.52470258,7,29,9_49.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/9_49.png
+10_1,10,t^(-2)-t^(-1)+ 2-2*t+ 2*t^2-2*t^3+ 2*t^4-2*t^5+ t^6-t^7+ t^8,3.5261959907,1.366191161,6,27,10_001.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_001-mt.png
+10_2,10,t-t^2+ 2*t^3-2*t^4+ 3*t^5-3*t^6+ 3*t^7-3*t^8+ 2*t^9-2*t^10+ t^11,5.1148414603,1.383682411,6,27,10_002.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_002.png
+10_3,10,t^(-4)-t^(-3)+ 2*t^(-2)-3*t^(-1)+ 4-4*t+ 3*t^2-3*t^3+ 2*t^4-t^5+ t^6,5.7321047867,1.534845531,6,27,10_003.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_003-mt.png
+10_4,10,t^(-5)-2*t^(-4)+ 3*t^(-3)-3*t^(-2)+ 4*t^(-1)-4+ 3*t-3*t^2+ 2*t^3-t^4+ t^5,5.8171296928,1.530559066,6,27,10_004.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_004.png
+10_5,10,-t^(-9)+ 2*t^(-8)-3*t^(-7)+ 4*t^(-6)-5*t^(-5)+ 5*t^(-4)-4*t^(-3)+ 4*t^(-2)-2*t^(-1)+ 2-t,7.3739351342,1.269457211,7,27,10_005.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_005-mt.png
+10_6,10,1-t+ 3*t^2-4*t^3+ 5*t^4-6*t^5+ 6*t^6-5*t^7+ 3*t^8-2*t^9+ t^10,8.3909376067,1.262997794,7,27,10_006.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_006-mt.png
+10_7,10,t^(-1)-2+ 4*t-5*t^2+ 7*t^3-7*t^4+ 6*t^5-5*t^6+ 3*t^7-2*t^8+ t^9,9.1159063956,1.284710432,7,27,10_007.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_007-mt.png
+10_8,10,t^(-2)-t^(-1)+ 2-3*t+ 4*t^2-4*t^3+ 4*t^4-4*t^5+ 3*t^6-2*t^7+ t^8,6.0832348370,1.658011275,7,27,10_008.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_008.png
+10_9,10,t^(-3)-2*t^(-2)+ 3*t^(-1)-4+ 6*t-6*t^2+ 6*t^3-5*t^4+ 3*t^5-2*t^6+ t^7,8.2940996752,1.427083734,7,27,10_009.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_009-mt.png
+10_10,10,-t^(-7)+ 2*t^(-6)-3*t^(-5)+ 5*t^(-4)-6*t^(-3)+ 7*t^(-2)-7*t^(-1)+ 6-4*t+ 3*t^2-t^3,9.1805736441,1.282900099,7,27,10_010.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_010.png
+10_11,10,t^(-3)-t^(-2)+ 3*t^(-1)-5+ 6*t-7*t^2+ 7*t^3-6*t^4+ 4*t^5-2*t^6+ t^7,9.3704424413,1.380226141,6,27,10_011.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_011-m.png
+10_12,10,-t^(-8)+ 2*t^(-7)-4*t^(-6)+ 6*t^(-5)-7*t^(-4)+ 8*t^(-3)-7*t^(-2)+ 6*t^(-1)-3+ 2*t-t^2,9.8174951906,1.316651839,6,27,10_012.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_012-mt.png
+10_13,10,t^(-4)-2*t^(-3)+ 5*t^(-2)-7*t^(-1)+ 8-9*t+ 8*t^2-6*t^3+ 4*t^4-2*t^5+ t^6,10.5784801904,1.244713024,7,27,10_013.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_013-mt.png
+10_14,10,1-2*t+ 4*t^2-6*t^3+ 9*t^4-9*t^5+ 9*t^6-8*t^7+ 5*t^8-3*t^9+ t^10,10.9376894144,1.258695373,7,27,10_014.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_014-mt.png
+10_15,10,-t^(-6)+ 2*t^(-5)-4*t^(-4)+ 6*t^(-3)-6*t^(-2)+ 7*t^(-1)-6+ 5*t-3*t^2+ 2*t^3-t^4,8.9734493260,1.288935639,7,27,10_015.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_015-mt.png
+10_16,10,t^(-3)-2*t^(-2)+ 4*t^(-1)-5+ 7*t-8*t^2+ 7*t^3-6*t^4+ 4*t^5-2*t^6+ t^7,9.5466423050,1.385302698,7,27,10_016.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_016-mt.png
+10_17,10,-t^(-5)+ 2*t^(-4)-3*t^(-3)+ 5*t^(-2)-6*t^(-1)+ 7-6*t+ 5*t^2-3*t^3+ 2*t^4-t^5,8.5367555991,1.59411144,7,27,10_017.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_017-mt.png
+10_18,10,t^(-3)-2*t^(-2)+ 4*t^(-1)-6+ 8*t-9*t^2+ 9*t^3-7*t^4+ 5*t^5-3*t^6+ t^7,10.6398442712,1.245552659,7,27,10_018.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_018-mt.png
+10_19,10,-t^(-4)+ 2*t^(-3)-3*t^(-2)+ 6*t^(-1)-7+ 8*t-8*t^2+ 7*t^3-5*t^4+ 3*t^5-t^6,9.8447713026,1.461466984,7,27,10_019.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_019.png
+10_20,10,t^(-1)-1+ 3*t-4*t^2+ 5*t^3-6*t^4+ 5*t^5-4*t^6+ 3*t^7-2*t^8+ t^9,8.3173787184,1.322309264,6,27,10_020.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_020-m.png
+10_21,10,1-2*t+ 4*t^2-5*t^3+ 7*t^4-7*t^5+ 7*t^6-6*t^7+ 3*t^8-2*t^9+ t^10,9.6751411441,1.345687364,6,27,10_021.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_021-m.png
+10_22,10,t^(-4)-2*t^(-3)+ 4*t^(-2)-6*t^(-1)+ 8-8*t+ 7*t^2-6*t^3+ 4*t^4-2*t^5+ t^6,9.9818665178,1.373749841,6,27,10_022.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_022-mt.png
+10_23,10,-t^(-8)+ 2*t^(-7)-4*t^(-6)+ 7*t^(-5)-9*t^(-4)+ 10*t^(-3)-9*t^(-2)+ 8*t^(-1)-5+ 3*t-t^2,11.3932246348,1.256462362,7,29,10_023.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_023.png
+10_24,10,t^(-1)-2+ 5*t-7*t^2+ 9*t^3-9*t^4+ 8*t^5-7*t^6+ 4*t^7-2*t^8+ t^9,10.9774547368,1.26737942,7,27,10_024.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_024-mt.png
+10_25,10,1-2*t+ 5*t^2-7*t^3+ 10*t^4-11*t^5+ 10*t^6-9*t^7+ 6*t^8-3*t^9+ t^10,11.8757796036,1.291794998,7,27,10_025.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_025.png
+10_26,10,t^(-4)-3*t^(-3)+ 6*t^(-2)-8*t^(-1)+ 10-10*t+ 9*t^2-7*t^3+ 4*t^4-2*t^5+ t^6,11.3520175579,1.393020263,7,27,10_026.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_026.png
+10_27,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 9*t^(-5)-11*t^(-4)+ 12*t^(-3)-11*t^(-2)+ 9*t^(-1)-5+ 3*t-t^2,12.3841319661,1.266194465,7,29,10_027.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_027.png
+10_28,10,-t^(-7)+ 2*t^(-6)-4*t^(-5)+ 6*t^(-4)-7*t^(-3)+ 9*t^(-2)-8*t^(-1)+ 7-5*t+ 3*t^2-t^3,10.2646749465,1.338557591,6,27,10_028.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_028.png
+10_29,10,t^(-3)-2*t^(-2)+ 5*t^(-1)-7+ 9*t-11*t^2+ 10*t^3-8*t^4+ 6*t^5-3*t^6+ t^7,11.6029052466,1.246060919,7,27,10_029.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_029.png
+10_30,10,t^(-1)-3+ 6*t-8*t^2+ 11*t^3-11*t^4+ 10*t^5-8*t^6+ 5*t^7-3*t^8+ t^9,11.8287575695,1.256795083,7,27,10_030.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_030.png
+10_31,10,-t^(-5)+ 2*t^(-4)-4*t^(-3)+ 7*t^(-2)-8*t^(-1)+ 10-9*t+ 7*t^2-5*t^3+ 3*t^4-t^5,11.0442640310,1.271210363,7,27,10_031.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_031-mt.png
+10_32,10,t^(-4)-3*t^(-3)+ 6*t^(-2)-9*t^(-1)+ 11-11*t+ 11*t^2-8*t^3+ 5*t^4-3*t^5+ t^6,12.0909368719,1.246571723,7,27,10_032.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_032.png
+10_33,10,-t^(-5)+ 3*t^(-4)-5*t^(-3)+ 8*t^(-2)-10*t^(-1)+ 11-10*t+ 8*t^2-5*t^3+ 3*t^4-t^5,11.5356739322,1.442536066,7,27,10_033.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_033-mt.png
+10_34,10,-t^(-7)+ 2*t^(-6)-3*t^(-5)+ 4*t^(-4)-5*t^(-3)+ 6*t^(-2)-5*t^(-1)+ 5-3*t+ 2*t^2-t^3,8.4222666678,1.334664655,6,27,10_034.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_034-mt.png
+10_35,10,t^(-6)-2*t^(-5)+ 4*t^(-4)-6*t^(-3)+ 7*t^(-2)-8*t^(-1)+ 8-6*t+ 4*t^2-2*t^3+ t^4,10.3944967856,1.257273014,7,27,10_035.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_035-mt.png
+10_36,10,t^(-1)-2+ 4*t-6*t^2+ 8*t^3-8*t^4+ 8*t^5-6*t^6+ 4*t^7-3*t^8+ t^9,10.4761855403,1.262660795,7,27,10_036.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_036-mt.png
+10_37,10,-t^(-5)+ 2*t^(-4)-4*t^(-3)+ 7*t^(-2)-8*t^(-1)+ 9-8*t+ 7*t^2-4*t^3+ 2*t^4-t^5,10.9658105324,1.261300177,7,29,10_037.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_037-mt.png
+10_38,10,t^(-1)-2+ 5*t-7*t^2+ 9*t^3-10*t^4+ 9*t^5-7*t^6+ 5*t^7-3*t^8+ t^9,11.3493135472,1.255786427,7,27,10_038.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_038-mt.png
+10_39,10,1-2*t+ 5*t^2-7*t^3+ 9*t^4-10*t^5+ 10*t^6-8*t^7+ 5*t^8-3*t^9+ t^10,11.5895187273,1.251882137,7,27,10_039.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_039-mt.png
+10_40,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 9*t^(-5)-12*t^(-4)+ 13*t^(-3)-11*t^(-2)+ 10*t^(-1)-6+ 3*t-t^2,12.8887403302,1.243302031,7,29,10_040.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_040.png
+10_41,10,t^(-3)-3*t^(-2)+ 6*t^(-1)-8+ 11*t-12*t^2+ 11*t^3-9*t^4+ 6*t^5-3*t^6+ t^7,12.3766154986,1.251505332,6,24,10_041.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_041.png
+10_42,10,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 10*t^(-2)-12*t^(-1)+ 14-13*t+ 10*t^2-7*t^3+ 4*t^4-t^5,13.2398483667,1.244271592,7,29,10_042.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_042.png
+10_43,10,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 9*t^(-2)-11*t^(-1)+ 13-11*t+ 9*t^2-6*t^3+ 3*t^4-t^5,12.6025961142,1.287780419,7,29,10_043.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_043.png
+10_44,10,t^(-3)-3*t^(-2)+ 6*t^(-1)-9+ 12*t-13*t^2+ 13*t^3-10*t^4+ 7*t^5-4*t^6+ t^7,12.9689942050,1.270313405,6,24,10_044.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_044.png
+10_45,10,-t^(-5)+ 4*t^(-4)-7*t^(-3)+ 11*t^(-2)-14*t^(-1)+ 15-14*t+ 11*t^2-7*t^3+ 4*t^4-t^5,13.7160759847,1.261388844,7,29,10_045.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_045.png
+10_46,10,t-t^2+ 3*t^3-3*t^4+ 4*t^5-5*t^6+ 4*t^7-4*t^8+ 3*t^9-2*t^10+ t^11,7.7169998093,1.649660015,7,29,10_046.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_046.png
+10_47,10,-t^(-9)+ 2*t^(-8)-4*t^(-7)+ 5*t^(-6)-6*t^(-5)+ 7*t^(-4)-5*t^(-3)+ 5*t^(-2)-3*t^(-1)+ 2-t,9.3851941567,1.372156848,7,29,10_047.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_047.png
+10_48,10,-t^(-5)+ 2*t^(-4)-4*t^(-3)+ 6*t^(-2)-7*t^(-1)+ 9-7*t+ 6*t^2-4*t^3+ 2*t^4-t^5,10.3789014490,1.453070696,7,29,10_048.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_048-mt.png
+10_49,10,t^3-2*t^4+ 5*t^5-6*t^6+ 9*t^7-10*t^8+ 9*t^9-8*t^10+ 5*t^11-3*t^12+ t^13,11.4531933662,1.321760055,7,29,10_049.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_049.png
+10_50,10,1-2*t+ 5*t^2-6*t^3+ 8*t^4-9*t^5+ 8*t^6-7*t^7+ 4*t^8-2*t^9+ t^10,11.1988897920,1.405291698,7,29,10_050.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_050-mt.png
+10_51,10,-t^(-8)+ 2*t^(-7)-5*t^(-6)+ 8*t^(-5)-10*t^(-4)+ 12*t^(-3)-10*t^(-2)+ 9*t^(-1)-6+ 3*t-t^2,12.6313795199,1.332301055,7,29,10_051.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_051-mt.png
+10_52,10,-t^(-4)+ 2*t^(-3)-4*t^(-2)+ 7*t^(-1)-8+ 10*t-9*t^2+ 8*t^3-6*t^4+ 3*t^5-t^6,11.5375481824,1.481106417,7,29,10_052.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_052.png
+10_53,10,t^2-3*t^3+ 7*t^4-9*t^5+ 12*t^6-12*t^7+ 11*t^8-9*t^9+ 5*t^10-3*t^11+ t^12,12.8868474201,1.327995615,7,29,10_053.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_053.png
+10_54,10,-t^(-6)+ 2*t^(-5)-4*t^(-4)+ 6*t^(-3)-7*t^(-2)+ 8*t^(-1)-6+ 6*t-4*t^2+ 2*t^3-t^4,10.5913111336,1.315102337,7,29,10_054.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_054.png
+10_55,10,t^2-2*t^3+ 5*t^4-7*t^5+ 10*t^6-10*t^7+ 9*t^8-8*t^9+ 5*t^10-3*t^11+ t^12,12.1855406270,1.293867269,7,29,10_055.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_055.png
+10_56,10,1-2*t+ 5*t^2-7*t^3+ 10*t^4-11*t^5+ 10*t^6-9*t^7+ 6*t^8-3*t^9+ t^10,12.3988021558,1.265471974,7,29,10_056.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_056-mt.png
+10_57,10,-t^(-8)+ 3*t^(-7)-7*t^(-6)+ 10*t^(-5)-12*t^(-4)+ 14*t^(-3)-12*t^(-2)+ 10*t^(-1)-6+ 3*t-t^2,13.5885585022,1.257089033,7,29,10_057.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_057.png
+10_58,10,t^(-4)-2*t^(-3)+ 5*t^(-2)-8*t^(-1)+ 10-11*t+ 10*t^2-8*t^3+ 6*t^4-3*t^5+ t^6,12.7213306985,1.297969184,7,31,10_058.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_058.png
+10_59,10,t^(-3)-3*t^(-2)+ 6*t^(-1)-9+ 12*t-12*t^2+ 12*t^3-10*t^4+ 6*t^5-3*t^6+ t^7,13.3899441414,1.285353067,7,31,10_059.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_059.png
+10_60,10,t^(-6)-3*t^(-5)+ 6*t^(-4)-10*t^(-3)+ 13*t^(-2)-14*t^(-1)+ 14-11*t+ 8*t^2-4*t^3+ t^4,13.9800415357,1.299728136,7,31,10_060.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_060.png
+10_61,10,t^(-2)-t^(-1)+ 3-4*t+ 4*t^2-5*t^3+ 5*t^4-4*t^5+ 3*t^6-2*t^7+ t^8,8.4585802675,1.695038477,6,29,10_061.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_061-m.png
+10_62,10,-t^(-9)+ 2*t^(-8)-4*t^(-7)+ 6*t^(-6)-7*t^(-5)+ 7*t^(-4)-6*t^(-3)+ 6*t^(-2)-3*t^(-1)+ 2-t,10.1414690363,1.411839544,6,29,10_062.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_062-m.png
+10_63,10,t^2-2*t^3+ 5*t^4-7*t^5+ 9*t^6-9*t^7+ 9*t^8-7*t^9+ 4*t^10-3*t^11+ t^12,11.5116912918,1.353469705,6,27,10_063.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_063-mt.png
+10_64,10,t^(-3)-2*t^(-2)+ 4*t^(-1)-6+ 8*t-8*t^2+ 8*t^3-7*t^4+ 4*t^5-2*t^6+ t^7,10.8680927130,1.471381759,6,29,10_064.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_064-m.png
+10_65,10,-t^(-8)+ 2*t^(-7)-5*t^(-6)+ 8*t^(-5)-9*t^(-4)+ 11*t^(-3)-10*t^(-2)+ 8*t^(-1)-5+ 3*t-t^2,12.0764614344,1.340261168,6,27,10_065.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_065-mt.png
+10_66,10,t^3-2*t^4+ 6*t^5-8*t^6+ 11*t^7-13*t^8+ 12*t^9-10*t^10+ 7*t^11-4*t^12+ t^13,13.0292688708,1.325702109,6,27,10_066.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_066.png
+10_67,10,t^(-1)-2+ 5*t-8*t^2+ 10*t^3-10*t^4+ 10*t^5-8*t^6+ 5*t^7-3*t^8+ t^9,12.4216305054,1.294081665,7,29,10_067.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_067-mt.png
+10_68,10,-t^(-7)+ 2*t^(-6)-4*t^(-5)+ 7*t^(-4)-8*t^(-3)+ 9*t^(-2)-9*t^(-1)+ 8-5*t+ 3*t^2-t^3,11.6370352293,1.342517727,7,29,10_068.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_068-mt.png
+10_69,10,-t^(-8)+ 3*t^(-7)-7*t^(-6)+ 11*t^(-5)-13*t^(-4)+ 15*t^(-3)-14*t^(-2)+ 11*t^(-1)-7+ 4*t-t^2,14.1265051706,1.28646054,7,29,10_069.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_069.png
+10_70,10,t^(-7)-3*t^(-6)+ 6*t^(-5)-9*t^(-4)+ 11*t^(-3)-11*t^(-2)+ 10*t^(-1)-8+ 5*t-2*t^2+ t^3,12.5108877304,1.265761723,7,29,10_070.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_070-mt.png
+10_71,10,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 10*t^(-2)-12*t^(-1)+ 13-12*t+ 10*t^2-6*t^3+ 3*t^4-t^5,13.3852287460,1.258158916,7,29,10_071.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_071.png
+10_72,10,1-2*t+ 5*t^2-8*t^3+ 11*t^4-12*t^5+ 12*t^6-10*t^7+ 7*t^8-4*t^9+ t^10,12.9295946870,1.278858489,7,29,10_072.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_072-mt.png
+10_73,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 10*t^(-5)-13*t^(-4)+ 14*t^(-3)-13*t^(-2)+ 11*t^(-1)-7+ 4*t-t^2,13.7068808423,1.26992994,7,29,10_073.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_073.png
+10_74,10,t^(-1)-3+ 6*t-8*t^2+ 11*t^3-10*t^4+ 9*t^5-8*t^6+ 4*t^7-2*t^8+ t^9,12.0060369983,1.328413018,6,29,10_074.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_074-m.png
+10_75,10,t^(-6)-3*t^(-5)+ 6*t^(-4)-10*t^(-3)+ 12*t^(-2)-13*t^(-1)+ 14-10*t+ 7*t^2-4*t^3+ t^4,13.4307487842,1.326253075,6,27,10_075.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_075.png
+10_76,10,1-t+ 4*t^2-6*t^3+ 8*t^4-10*t^5+ 9*t^6-8*t^7+ 6*t^8-3*t^9+ t^10,11.5128604144,1.323589445,6,29,10_076.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_076-m.png
+10_77,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 8*t^(-5)-10*t^(-4)+ 11*t^(-3)-9*t^(-2)+ 8*t^(-1)-4+ 2*t-t^2,12.0747116814,1.311588345,6,29,10_077.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_077-m.png
+10_78,10,1-3*t+ 6*t^2-8*t^3+ 11*t^4-11*t^5+ 11*t^6-9*t^7+ 5*t^8-3*t^9+ t^10,12.5020991969,1.311687321,6,27,10_078.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_078-mt.png
+10_79,10,-t^(-5)+ 2*t^(-4)-5*t^(-3)+ 8*t^(-2)-9*t^(-1)+ 11-9*t+ 8*t^2-5*t^3+ 2*t^4-t^5,12.5402952184,1.491719422,7,29,10_079.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_079-mt.png
+10_80,10,t^3-2*t^4+ 6*t^5-8*t^6+ 11*t^7-12*t^8+ 11*t^9-10*t^10+ 6*t^11-3*t^12+ t^13,13.3940444715,1.362100604,7,31,10_080.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_080.png
+10_81,10,-t^(-5)+ 3*t^(-4)-7*t^(-3)+ 11*t^(-2)-13*t^(-1)+ 15-13*t+ 11*t^2-7*t^3+ 3*t^4-t^5,14.4926670315,1.347480142,7,31,10_081.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_081.png
+10_82,10,t^(-3)-3*t^(-2)+ 5*t^(-1)-7+ 10*t-10*t^2+ 10*t^3-8*t^4+ 5*t^5-3*t^6+ t^7,12.4314795313,1.46549263,7,29,10_082.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_082.png
+10_83,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 10*t^(-5)-13*t^(-4)+ 14*t^(-3)-13*t^(-2)+ 11*t^(-1)-7+ 4*t-t^2,14.2580518491,1.439222001,7,29,10_083.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_083.png
+10_84,10,-t^(-2)+ 3*t^(-1)-6+ 11*t-13*t^2+ 15*t^3-14*t^4+ 11*t^5-8*t^6+ 4*t^7-t^8,14.7098987815,1.283946284,7,29,10_084.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_084-mt.png
+10_85,10,-t^(-9)+ 3*t^(-8)-5*t^(-7)+ 7*t^(-6)-9*t^(-5)+ 9*t^(-4)-8*t^(-3)+ 7*t^(-2)-4*t^(-1)+ 3-t,11.7977736599,1.542716873,6,24,10_085.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_085.png
+10_86,10,t^(-4)-4*t^(-3)+ 8*t^(-2)-11*t^(-1)+ 14-14*t+ 13*t^2-10*t^3+ 6*t^4-3*t^5+ t^6,14.3412561395,1.457272763,7,29,10_086.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_086.png
+10_87,10,t^(-4)-3*t^(-3)+ 6*t^(-2)-10*t^(-1)+ 13-13*t+ 13*t^2-10*t^3+ 7*t^4-4*t^5+ t^6,14.2736445980,1.297010513,7,29,10_087.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_087.png
+10_88,10,-t^(-5)+ 4*t^(-4)-8*t^(-3)+ 13*t^(-2)-16*t^(-1)+ 17-16*t+ 13*t^2-8*t^3+ 4*t^4-t^5,15.6466491717,1.321542625,7,31,10_088.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_088.png
+10_89,10,-t^(-8)+ 3*t^(-7)-7*t^(-6)+ 12*t^(-5)-15*t^(-4)+ 17*t^(-3)-16*t^(-2)+ 13*t^(-1)-9+ 5*t-t^2,15.5660589231,1.320269038,7,31,10_089.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_089.png
+10_90,10,t^(-4)-3*t^(-3)+ 7*t^(-2)-10*t^(-1)+ 12-13*t+ 12*t^2-9*t^3+ 6*t^4-3*t^5+ t^6,13.8661498632,1.413810459,7,29,10_090.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_090-mt.png
+10_91,10,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 9*t^(-2)-11*t^(-1)+ 13-11*t+ 9*t^2-6*t^3+ 3*t^4-t^5,13.4870224202,1.480310473,7,29,10_091.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_091-mt.png
+10_92,10,1-3*t+ 7*t^2-10*t^3+ 14*t^4-15*t^5+ 14*t^6-12*t^7+ 8*t^8-4*t^9+ t^10,14.8553501715,1.317140217,7,29,10_092.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_092-mt.png
+10_93,10,-t^(-6)+ 3*t^(-5)-6*t^(-4)+ 9*t^(-3)-10*t^(-2)+ 11*t^(-1)-10+ 8*t-5*t^2+ 3*t^3-t^4,13.0164671649,1.492392277,7,29,10_093.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_093-mt.png
+10_94,10,t^(-3)-3*t^(-2)+ 6*t^(-1)-8+ 11*t-12*t^2+ 11*t^3-9*t^4+ 6*t^5-3*t^6+ t^7,13.3115665249,1.446022965,7,29,10_094.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_094.png
+10_95,10,-t^(-8)+ 3*t^(-7)-7*t^(-6)+ 11*t^(-5)-14*t^(-4)+ 16*t^(-3)-14*t^(-2)+ 12*t^(-1)-8+ 4*t-t^2,15.0478528845,1.305732779,7,29,10_095.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_095.png
+10_96,10,t^(-6)-3*t^(-5)+ 7*t^(-4)-11*t^(-3)+ 14*t^(-2)-16*t^(-1)+ 15-12*t+ 9*t^2-4*t^3+ t^4,15.1778514277,1.342982361,7,31,10_096.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_096.png
+10_97,10,t^(-1)-3+ 7*t-11*t^2+ 14*t^3-14*t^4+ 14*t^5-11*t^6+ 7*t^7-4*t^8+ t^9,14.8527467083,1.340582998,7,31,10_097.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_097.png
+10_98,10,1-3*t+ 7*t^2-9*t^3+ 13*t^4-14*t^5+ 12*t^6-11*t^7+ 7*t^8-3*t^9+ t^10,14.4129190235,1.478910479,7,31,10_098.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_098.png
+10_99,10,-t^(-5)+ 3*t^(-4)-7*t^(-3)+ 10*t^(-2)-12*t^(-1)+ 15-12*t+ 10*t^2-7*t^3+ 3*t^4-t^5,14.3343445190,1.496763931,7,31,10_099.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_099.png
+10_100,10,-t^(-9)+ 3*t^(-8)-6*t^(-7)+ 8*t^(-6)-10*t^(-5)+ 11*t^(-4)-9*t^(-3)+ 8*t^(-2)-5*t^(-1)+ 3-t,12.8108825664,1.601846185,6,24,10_100.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_100.png
+10_101,10,t^2-3*t^3+ 7*t^4-10*t^5+ 14*t^6-14*t^7+ 13*t^8-11*t^9+ 7*t^10-4*t^11+ t^12,14.6875068376,1.327944478,7,29,10_101.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_101.png
+10_102,10,t^(-4)-3*t^(-3)+ 6*t^(-2)-9*t^(-1)+ 12-12*t+ 11*t^2-9*t^3+ 6*t^4-3*t^5+ t^6,13.7273432971,1.440825463,7,29,10_102.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_102.png
+10_103,10,-t^(-8)+ 3*t^(-7)-6*t^(-6)+ 9*t^(-5)-12*t^(-4)+ 13*t^(-3)-11*t^(-2)+ 10*t^(-1)-6+ 3*t-t^2,13.8747895699,1.52255497,7,29,10_103.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_103-mt.png
+10_104,10,-t^(-5)+ 3*t^(-4)-6*t^(-3)+ 10*t^(-2)-12*t^(-1)+ 13-12*t+ 10*t^2-6*t^3+ 3*t^4-t^5,14.1071266875,1.514165312,7,31,10_104.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_104.png
+10_105,10,t^(-3)-3*t^(-2)+ 7*t^(-1)-11+ 14*t-15*t^2+ 15*t^3-12*t^4+ 8*t^5-4*t^6+ t^7,15.1816955046,1.354325909,7,31,10_105.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_105.png
+10_106,10,t^(-3)-3*t^(-2)+ 6*t^(-1)-9+ 12*t-12*t^2+ 12*t^3-10*t^4+ 6*t^5-3*t^6+ t^7,13.9330189943,1.50828303,7,29,10_106.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_106.png
+10_107,10,-t^(-5)+ 3*t^(-4)-7*t^(-3)+ 12*t^(-2)-14*t^(-1)+ 16-15*t+ 12*t^2-8*t^3+ 4*t^4-t^5,15.3528526970,1.337830154,7,29,10_107.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_107.png
+10_108,10,-t^(-4)+ 3*t^(-3)-5*t^(-2)+ 8*t^(-1)-9+ 10*t-10*t^2+ 8*t^3-5*t^4+ 3*t^5-t^6,12.9046239529,1.606905227,7,31,10_108.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_108.png
+10_109,10,-t^(-5)+ 3*t^(-4)-7*t^(-3)+ 11*t^(-2)-13*t^(-1)+ 15-13*t+ 11*t^2-7*t^3+ 3*t^4-t^5,14.9002086030,1.499963817,7,31,10_109.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_109.png
+10_110,10,t^(-3)-3*t^(-2)+ 7*t^(-1)-10+ 13*t-14*t^2+ 13*t^3-11*t^4+ 7*t^5-3*t^6+ t^7,14.7774626650,1.475189186,7,31,10_110.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_110.png
+10_111,10,1-3*t+ 7*t^2-9*t^3+ 12*t^4-13*t^5+ 12*t^6-10*t^7+ 6*t^8-3*t^9+ t^10,14.2650230134,1.443813803,7,31,10_111.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_111.png
+10_112,10,t^(-7)-4*t^(-6)+ 7*t^(-5)-11*t^(-4)+ 14*t^(-3)-14*t^(-2)+ 14*t^(-1)-10+ 7*t-4*t^2+ t^3,14.7558840759,1.550750338,7,29,10_112.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_112.png
+10_113,10,-t^(-2)+ 4*t^(-1)-8+ 14*t-17*t^2+ 19*t^3-18*t^4+ 14*t^5-10*t^6+ 5*t^7-t^8,16.4734736614,1.316549352,7,29,10_113.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_113.png
+10_114,10,t^(-6)-4*t^(-5)+ 7*t^(-4)-11*t^(-3)+ 15*t^(-2)-15*t^(-1)+ 15-12*t+ 8*t^2-4*t^3+ t^4,15.3049043434,1.543165121,7,29,10_114.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_114-mt.png
+10_115,10,-t^(-5)+ 4*t^(-4)-9*t^(-3)+ 14*t^(-2)-17*t^(-1)+ 19-17*t+ 14*t^2-9*t^3+ 4*t^4-t^5,16.6380380564,1.457189705,7,31,10_115.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_115.png
+10_116,10,t^(-7)-4*t^(-6)+ 8*t^(-5)-12*t^(-4)+ 15*t^(-3)-16*t^(-2)+ 15*t^(-1)-11+ 8*t-4*t^2+ t^3,15.4238665073,1.555128374,6,24,10_116.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_116.png
+10_117,10,-t^(-8)+ 4*t^(-7)-9*t^(-6)+ 13*t^(-5)-16*t^(-4)+ 18*t^(-3)-16*t^(-2)+ 13*t^(-1)-8+ 4*t-t^2,16.1254435239,1.428596659,7,29,10_117.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_117.png
+10_118,10,-t^(-5)+ 4*t^(-4)-8*t^(-3)+ 12*t^(-2)-15*t^(-1)+ 17-15*t+ 12*t^2-8*t^3+ 4*t^4-t^5,15.5452149056,1.510167615,7,31,10_118.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_118.png
+10_119,10,t^(-6)-4*t^(-5)+ 8*t^(-4)-12*t^(-3)+ 16*t^(-2)-17*t^(-1)+ 16-13*t+ 9*t^2-4*t^3+ t^4,15.9386941262,1.438335677,7,31,10_119.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_119.png
+10_120,10,t^2-4*t^3+ 10*t^4-13*t^5+ 17*t^6-18*t^7+ 16*t^8-13*t^9+ 8*t^10-4*t^11+ t^12,16.2713682821,1.462640753,7,31,10_120.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_120.png
+10_121,10,-t^(-2)+ 5*t^(-1)-10+ 15*t-18*t^2+ 20*t^3-18*t^4+ 14*t^5-9*t^6+ 4*t^7-t^8,16.9748770321,1.46192892,7,31,10_121.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_121.png
+10_122,10,t^(-6)-5*t^(-5)+ 9*t^(-4)-13*t^(-3)+ 17*t^(-2)-17*t^(-1)+ 17-13*t+ 8*t^2-4*t^3+ t^4,16.4108231586,1.578235006,7,31,10_122.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_122.png
+10_123,10,-t^(-5)+ 5*t^(-4)-10*t^(-3)+ 15*t^(-2)-19*t^(-1)+ 21-19*t+ 15*t^2-10*t^3+ 5*t^4-t^5,17.0857094829,1.618033989,7,31,10_123.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_123.png
+10_124,10,t^4+ t^6-t^10,0,Not Hyperbolic,6,24,10_124.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_124.png
+10_125,10,-t^(-4)+ t^(-3)-t^(-2)+ 2*t^(-1)-1+ 2*t-t^2+ t^3-t^4,4.6119613744,1.755315744,6,24,10_125.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_125.png
+10_126,10,-t^(-8)+ t^(-7)-2*t^(-6)+ 3*t^(-5)-3*t^(-4)+ 4*t^(-3)-2*t^(-2)+ 2*t^(-1)-1,6.9042561238,1.583497222,6,24,10_126.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_126.png
+10_127,10,2*t^2-2*t^3+ 4*t^4-5*t^5+ 5*t^6-5*t^7+ 3*t^8-2*t^9+ t^10,8.8968167596,1.370967231,6,24,10_127.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_127.png
+10_128,10,t^3-t^4+ 2*t^5-t^6+ 2*t^7-2*t^8+ t^9-t^10,5.8605393017,1.482838697,7,29,10_128.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_128.png
+10_129,10,-t^(-3)+ 2*t^(-2)-3*t^(-1)+ 5-4*t+ 4*t^2-3*t^3+ 2*t^4-t^5,8.9015166372,1.411076431,7,29,10_129.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_129.png
+10_130,10,-t^(-7)+ t^(-6)-2*t^(-5)+ 3*t^(-4)-2*t^(-3)+ 3*t^(-2)-2*t^(-1)+ 2-t,6.7781988900,1.589214164,7,29,10_130.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_130.png
+10_131,10,2*t-3*t^2+ 5*t^3-5*t^4+ 5*t^5-5*t^6+ 3*t^7-2*t^8+ t^9,9.4650216572,1.466427391,7,29,10_131.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_131.png
+10_132,10,-t^(-7)+ t^(-6)-t^(-5)+ t^(-4)+ t^(-2),4.0568602242,1.553898243,7,29,10_132.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_132.png
+10_133,10,t-t^2+ 3*t^3-3*t^4+ 3*t^5-3*t^6+ 2*t^7-2*t^8+ t^9,7.7983002321,1.367836149,7,29,10_133.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_133.png
+10_134,10,t^3-t^4+ 3*t^5-3*t^6+ 4*t^7-4*t^8+ 3*t^9-3*t^10+ t^11,8.3929225083,1.327505181,7,29,10_134.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_134.png
+10_135,10,-2*t^(-3)+ 4*t^(-2)-5*t^(-1)+ 7-6*t+ 6*t^2-4*t^3+ 2*t^4-t^5,10.6871749683,1.277845326,7,29,10_135.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_135.png
+10_136,10,-t^(-4)+ 2*t^(-3)-2*t^(-2)+ 3*t^(-1)-2+ 2*t-2*t^2+ t^3,7.7462745462,1.492544873,7,29,10_136.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_136.png
+10_137,10,t^(-2)-2*t^(-1)+ 4-4*t+ 4*t^2-4*t^3+ 3*t^4-2*t^5+ t^6,9.2505562626,1.403511117,7,31,10_137.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_137.png
+10_138,10,t^(-3)-2*t^(-2)+ 4*t^(-1)-5+ 6*t-6*t^2+ 5*t^3-4*t^4+ 2*t^5,10.4672462426,1.398657178,7,31,10_138.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_138.png
+10_139,10,t^4+ t^6-t^8+ t^9-t^10+ t^11-t^12,4.8511707573,1.805414732,6,29,10_139.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_139-m.png
+10_140,10,1-t+ t^2-t^3+ 2*t^4-t^5+ t^6-t^7,5.2125668223,1.97742993,6,27,10_140.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_140-mt.png
+10_141,10,t^(-2)-2*t^(-1)+ 3-3*t+ 4*t^2-3*t^3+ 2*t^4-2*t^5+ t^6,7.9364742292,1.549476065,6,24,10_141.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_141.png
+10_142,10,t^3-t^4+ 2*t^5-2*t^6+ 3*t^7-2*t^8+ 2*t^9-2*t^10,6.7708167807,1.601959831,6,27,10_142.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_142-mt.png
+10_143,10,-t^(-8)+ 2*t^(-7)-3*t^(-6)+ 4*t^(-5)-5*t^(-4)+ 5*t^(-3)-3*t^(-2)+ 3*t^(-1)-1,9.0708992700,1.451587411,6,24,10_143.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_143.png
+10_144,10,2*t^(-1)-3+ 5*t-7*t^2+ 7*t^3-6*t^4+ 5*t^5-3*t^6+ t^7,10.7965949841,1.357589436,6,27,10_144.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_144-mt.png
+10_145,10,-t^(-10)+ t^(-9)-t^(-8)+ t^(-7)+ t^(-2),5.0448991629,1.887268265,7,29,10_145.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_145.png
+10_146,10,-t^(-5)+ 3*t^(-4)-4*t^(-3)+ 5*t^(-2)-6*t^(-1)+ 6-4*t+ 3*t^2-t^3,10.5610167549,1.332077936,7,29,10_146.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_146.png
+10_147,10,t^(-3)-2*t^(-2)+ 3*t^(-1)-4+ 5*t-4*t^2+ 4*t^3-3*t^4+ t^5,9.4175909160,1.421541608,7,29,10_147.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_147.png
+10_148,10,-t^(-8)+ 2*t^(-7)-4*t^(-6)+ 5*t^(-5)-5*t^(-4)+ 6*t^(-3)-4*t^(-2)+ 3*t^(-1)-1,10.2602434363,1.475377054,6,24,10_148.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_148.png
+10_149,10,2*t^2-3*t^3+ 6*t^4-7*t^5+ 7*t^6-7*t^7+ 5*t^8-3*t^9+ t^10,11.4427267788,1.431584786,7,29,10_149.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_149.png
+10_150,10,1-2*t+ 4*t^2-4*t^3+ 5*t^4-5*t^5+ 4*t^6-3*t^7+ t^8,10.0813628565,1.494517928,7,29,10_150.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_150.png
+10_151,10,-2*t^(-6)+ 4*t^(-5)-6*t^(-4)+ 8*t^(-3)-7*t^(-2)+ 7*t^(-1)-5+ 3*t-t^2,11.8430447516,1.390498225,7,29,10_151.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_151.png
+10_152,10,t^4+ t^6+ t^7-2*t^8+ 2*t^9-3*t^10+ 2*t^11-2*t^12+ t^13,8.5360653472,1.684017712,7,29,10_152.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_152-mt.png
+10_153,10,-t^(-5)+ t^(-4)-t^(-3)+ t^(-2)+ 1+ t-t^2+ t^3-t^4,7.3743438893,2.05120142,7,29,10_153.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_153-mt.png
+10_154,10,t^3+ 2*t^6-2*t^7+ 2*t^8-3*t^9+ 2*t^10-2*t^11+ t^12,9.2498874438,1.733570425,7,31,10_154.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_154.png
+10_155,10,t^(-6)-2*t^(-5)+ 3*t^(-4)-4*t^(-3)+ 4*t^(-2)-4*t^(-1)+ 4-2*t+ t^2,9.2505416130,1.722083806,6,24,10_155.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_155.png
+10_156,10,-t^(-6)+ 3*t^(-5)-5*t^(-4)+ 6*t^(-3)-6*t^(-2)+ 6*t^(-1)-4+ 3*t-t^2,11.1633906421,1.393973525,7,29,10_156.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_156.png
+10_157,10,t^(-10)-4*t^(-9)+ 6*t^(-8)-8*t^(-7)+ 9*t^(-6)-8*t^(-5)+ 7*t^(-4)-4*t^(-3)+ 2*t^(-2),12.6653332849,1.465571232,7,31,10_157.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_157.png
+10_158,10,t^(-4)-3*t^(-3)+ 6*t^(-2)-7*t^(-1)+ 8-8*t+ 6*t^2-4*t^3+ 2*t^4,12.2712363584,1.418844054,7,29,10_158.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_158-mt.png
+10_159,10,-1+ 4*t-5*t^2+ 7*t^3-7*t^4+ 6*t^5-5*t^6+ 3*t^7-t^8,11.7406410379,1.527172941,6,24,10_159.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_159.png
+10_160,10,1-2*t+ 3*t^2-3*t^3+ 4*t^4-3*t^5+ 3*t^6-2*t^7,9.2039166060,1.600169293,7,29,10_160.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_160.png
+10_161,10,t^3+ t^6-t^7+ t^8-t^9+ t^10-t^11,5.6387729488,1.849791887,7,29,10_161.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_161.png
+10_162,10,t^(-7)-2*t^(-6)+ 4*t^(-5)-6*t^(-4)+ 6*t^(-3)-6*t^(-2)+ 5*t^(-1)-3+ 2*t,10.6933605467,1.549459777,7,29,10_162.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_162.png
+10_163,10,-t^(-2)+ 4*t^(-1)-6+ 8*t-9*t^2+ 9*t^3-7*t^4+ 5*t^5-2*t^6,13.2900030685,1.44450066,7,29,10_163.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_163-mt.png
+10_164,10,-t^(-5)+ 3*t^(-4)-5*t^(-3)+ 7*t^(-2)-8*t^(-1)+ 8-6*t+ 5*t^2-2*t^3,12.5066879308,1.512790453,7,29,10_164.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_164.png
+10_165,10,t^(-9)-3*t^(-8)+ 4*t^(-7)-6*t^(-6)+ 7*t^(-5)-6*t^(-4)+ 6*t^(-3)-4*t^(-2)+ 2*t^(-1),11.6030846497,1.512756378,7,31,10_165.png,https://tildesites.geneseo.edu/~heap/knot-mosaics/images/10_165.png

@@ -1,15 +1,11 @@
-# Flype-Equivalent Knot Mosaic Experiments
+# Flype Equivalent Knot Mosaic Experiments
 
 This repository contains the code used to train and evaluate image classifiers on
-flype-equivalent knot mosaic diagrams. The current workflow uses PNG mosaics
-grouped by knot label, filters classes by the number of available flype variants,
+flype equivalent knot mosaic diagrams. The current workflow uses PNG mosaics knot diagrams
+grouped by knot label, filters classes by the number of available flype equivalent,
 splits the dataset into train/validation/test folds, and fine-tunes ResNet18
 classifiers on those images.
 
-Large generated datasets, checkpoints, logs, plots, and legacy rotated-image
-artifacts are intentionally ignored by Git. Keep those files locally or publish
-them through a data release mechanism rather than committing them to the source
-repository.
 
 ## Repository Contents
 
@@ -93,8 +89,5 @@ python scripts/plot_resnet_confusion_matrix.py --checkpoint checkpoints/resnet18
 
 ## Notes
 
-- Generated data is not committed because the flype-equivalent image datasets
-  are multi-gigabyte local artifacts.
-- The previous rotated-image and tile-probability workflow has been removed
-  from the tracked project surface so GitHub reflects only the current
-  flype-equivalent mosaic experiments.
+- Generated data is not uploaded because the flype equivalent image datasets
+  are in GBs.

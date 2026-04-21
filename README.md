@@ -1,49 +1,100 @@
-# Knot Mosaic CNN
+# Flype-Equivalent Knot Mosaic Experiments
 
-Training CNN-based classifiers on Knot Mosaic images.
+This repository contains the code used to train and evaluate image classifiers on
+flype-equivalent knot mosaic diagrams. The current workflow uses PNG mosaics
+grouped by knot label, filters classes by the number of available flype variants,
+splits the dataset into train/validation/test folds, and fine-tunes ResNet18
+classifiers on those images.
 
-## Data Preprocessing
+Large generated datasets, checkpoints, logs, plots, and legacy rotated-image
+artifacts are intentionally ignored by Git. Keep those files locally or publish
+them through a data release mechanism rather than committing them to the source
+repository.
 
-The `merge_knot_data.py` workflow joins `knotinfo.csv` with the downloaded mosaics in `mosaics/` and writes `mosaics/merged_knotinfo.csv`. Snake_case columns capture the parsed mosaic and tile counts alongside the matching image reference.
+## Repository Contents
 
-### Key files
+- `dataset_mosaic_images.py` - PyTorch dataset and dataloader utilities for
+  split PNG mosaic datasets.
+- `split_dataset.py` - creates train/validation/test splits from
+  `dataset_filtered/`.
+- `split_dataset_min10.py` - creates splits from `dataset_filtered_10/`, keeping
+  classes with at least 10 flype-equivalent examples.
+- `train_resnet18.py` - fine-tunes a ResNet18 classifier with class-balanced
+  sampling.
+- `scripts/eval_resnet_confusion.py` - evaluates a checkpoint and reports the
+  most common confusion pairs.
+- `scripts/plot_resnet_confusion_matrix.py` - plots full or top-N confusion
+  matrices for a trained ResNet18 checkpoint.
+- `scripts/plot_confusion_subset_dual.py` - compares confusion matrices across
+  two ResNet experiments on a shared label subset.
+- `scripts/plot_resnet18_knot_training_log.py` and
+  `scripts/plot_resnet18_knot_min10_training_log.py` - reproduce saved training
+  metric plots from fixed epoch tables.
+- `pd_to_mosaic_3.py` and `render_pd_mosaic.py` - utilities for rendering mosaic
+  images from PD codes.
 
-- `knotinfo.csv` — original KnotInfo metadata (includes `Mosaic/Tile-Number` values like `{ 7 ; 27 }`).
-- `mosaics/index.csv` — index for downloaded mosaic images (`name`, `filename`, `url`).
-- `mosaics/merged_knotinfo.csv` — merged output produced by `merge_knot_data.py`.
-- `merge_knot_data.py` — matching script that builds the merged CSV.
+## Expected Local Data Layout
 
-### Columns in `mosaics/merged_knotinfo.csv`
+The training scripts expect generated data to exist locally in one of these
+ignored folders:
 
-Important fields (snake_case):
+```text
+dataset_filtered/
+  3_1/
+    3_1_01.png
+    3_1_01_matrix.npy
+    ...
+dataset_split/
+  train/<knot_label>/*.png
+  val/<knot_label>/*.png
+  test/<knot_label>/*.png
+```
 
-- `Name` — original knot name (e.g. `10_1`).
-- `crossing_number`, `jones_polynomial`, `hyperbolic_volume`, `meridian_length` — selected KnotInfo columns.
-- `mosaic_num`, `tile_num` — parsed values from `Mosaic/Tile-Number` or inferred from the matched filename.
-- `image_filename_matched`, `image_url_matched` — chosen mosaic reference.
+The min-10 experiment uses the same layout under `dataset_filtered_10/` and
+`dataset_split_10/`.
 
-Notes
-- `Mosaic/Tile-Number` is dropped once `mosaic_num` and `tile_num` are split out.
-- Matching strategy: exact filename → normalized ID (e.g. `10_001` ↔ `10_1`) → normalized name → fuzzy fallback.
+## Basic Workflow
 
-## Tile-prob dataset and experiments
+Install dependencies:
 
-Pipeline components for training classifiers on tile-probability tensors:
+```powershell
+pip install -r requirements.txt
+```
 
-- `tile_matrices/` — source tile-matrix images.
-- `tile_probs_from_matrices/` — per-knot directories with `tile_probs.npy` inputs.
-- `create_rotated_tile_probs.py` — generates `_rot90`, `_rot180`, `_rot270` augments.
-- `dataset_tile_probs.py` — dataset loader for numpy arrays.
-- `model_tileprob_cnn.py` — shared CNN feature extractor.
-- `train_cnn.py` — supervised baseline (train on rotations, validate on originals).
-- `train_prototypical.py` — episodic prototypical trainer (N-way K-shot with augmentation).
+Create a split dataset:
 
-## Evaluation and plotting
+```powershell
+python split_dataset.py --source dataset_filtered --dest dataset_split --overwrite
+```
 
-- `scripts/parse_proto_logs_and_plot.py` — parse training logs and emit CSVs plus plots (e.g. `plots/compare_top3_3shot.png`).
+Or create the min-10 split:
 
-## Outputs
+```powershell
+python split_dataset_min10.py --source dataset_filtered_10 --dest dataset_split_10 --overwrite
+```
 
-- `logs/` — training logs.
-- `checkpoints/` — saved model weights.
-- `plots/` — generated CSV/PNG artifacts.
+Train ResNet18:
+
+```powershell
+python train_resnet18.py --data-root dataset_split --epochs 50 --output checkpoints/resnet18_knot.pt --evaluate-test
+```
+
+Evaluate the most common confusion pairs:
+
+```powershell
+python scripts/eval_resnet_confusion.py --checkpoint checkpoints/resnet18_knot.pt --data-root dataset_split --split test --csv plots/resnet18_confusions.csv
+```
+
+Plot a normalized confusion matrix:
+
+```powershell
+python scripts/plot_resnet_confusion_matrix.py --checkpoint checkpoints/resnet18_knot.pt --data-root dataset_split --split test --normalize --top-n 20
+```
+
+## Notes
+
+- Generated data is not committed because the flype-equivalent image datasets
+  are multi-gigabyte local artifacts.
+- The previous rotated-image and tile-probability workflow has been removed
+  from the tracked project surface so GitHub reflects only the current
+  flype-equivalent mosaic experiments.

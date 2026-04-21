@@ -8,11 +8,62 @@ knotenv/
 .venv/
 venv/
 
-# Experiment artifacts
+# Local/generated flype datasets and experiment artifacts
+alt_knot_mosaic/
+dataset_filtered/
+dataset_filtered_10/
+dataset_split/
+dataset_split_10/
 reports/
 checkpoints/
 logs/
 plots/
+renders/
+PD_code_alternating_12/
+
+# Legacy rotated-image/tile-probability project artifacts
+cells_std/
+mosaics/
+mosaics_from_matrices/
+tile_matrices/
+tile_probs_from_matrices/
+tiles/
+
+# Legacy rotated-image/tile-probability scripts and metadata
+build_mosaic_index.py
+build_mosaics_from_matrices.py
+build_probs_from_matrices.py
+create_rotated_tile_probs.py
+dataset_tile_probs.py
+eval_baseline_nn.py
+eval_retrieval_nn.py
+knotinfo.csv
+merge_knot_data.py
+merged_knotinfo.csv
+model_tileprob_cnn.py
+predict_knots.py
+pd_to_mosaic.py
+pd_to_mosaic_2.py
+pd_to_mosaic_4.py
+pd_to_mosaic_weighted.py
+render_tile_matrix.py
+rotate_mosaics.py
+train_cnn.py
+train_prototypical.py
+update_tile_indices.py
+utils_npy.py
+scripts/compute_proto_run_metrics.py
+scripts/eval_baseline_classifiers.py
+scripts/eval_checkpoints_and_save_confusion.py
+scripts/inspect_ckpt.py
+scripts/parse_debug.py
+scripts/parse_proto_logs_and_plot.py
+scripts/plot_proto_confusion_matrix.py
+scripts/run_eval_with_path.py
+
+# One-off generated examples
+matrix_*.csv
+mosaic*.png
 
 # Notebooks checkpoints
 .ipynb_checkpoints/
